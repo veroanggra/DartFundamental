@@ -1,4 +1,4 @@
-import 'package:MilkEggs/milk_eggs.dart';
+import 'package:Star/star.dart';
 import 'package:test/test.dart';
 
 void main() {

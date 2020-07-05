@@ -9,6 +9,8 @@
       <excludeFolder url="file://$MODULE_DIR$/KonversiSuhu/build" />
       <excludeFolder url="file://$MODULE_DIR$/MilkEggs/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/MilkEggs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Star/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Star/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

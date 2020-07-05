@@ -1,4 +1,4 @@
-import 'package:MilkEggs/MilkEggs.dart' as MilkEggs;
+import 'package:MilkEggs/milk_eggs.dart' as MilkEggs;
 
 void main(List<String> arguments) {
   var eggReady = false;
