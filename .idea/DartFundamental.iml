@@ -5,12 +5,18 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/BelajarDart/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/BelajarDart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Break/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Break/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Continue/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Continue/build" />
       <excludeFolder url="file://$MODULE_DIR$/KonversiSuhu/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/KonversiSuhu/build" />
       <excludeFolder url="file://$MODULE_DIR$/MilkEggs/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/MilkEggs/build" />
       <excludeFolder url="file://$MODULE_DIR$/Star/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Star/build" />
+      <excludeFolder url="file://$MODULE_DIR$/SwitchCase/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/SwitchCase/build" />
       <excludeFolder url="file://$MODULE_DIR$/Username/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Username/build" />
     </content>
