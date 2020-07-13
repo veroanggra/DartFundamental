@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Animal/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Animal/build" />
       <excludeFolder url="file://$MODULE_DIR$/BelajarDart/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/BelajarDart/build" />
       <excludeFolder url="file://$MODULE_DIR$/Break/.pub" />
@@ -19,6 +21,8 @@
       <excludeFolder url="file://$MODULE_DIR$/SwitchCase/build" />
       <excludeFolder url="file://$MODULE_DIR$/Username/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Username/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dartpsp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dartpsp/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
